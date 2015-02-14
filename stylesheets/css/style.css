@@ -1,0 +1,23 @@
+.personsList, .formView {
+  margin: 20px 0; }
+
+.icon {
+  width: 1em;
+  margin: 0 0.5em; }
+
+.header {
+  background: #196BB3;
+  color: #fff;
+  padding: 2em 0; }
+
+.note {
+  padding: 0 0 1em 0; }
+
+.alert {
+  width: 50%;
+  text-align: center;
+  left: 25%;
+  position: absolute;
+  z-index: 1; }
+
+/*# sourceMappingURL=style.css.map */
