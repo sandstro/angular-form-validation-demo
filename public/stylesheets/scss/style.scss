@@ -1,0 +1,28 @@
+@import "base";
+
+.personsList, .formView {
+	margin: $mainMargin;
+}
+
+.icon {
+	width:1em;
+	margin:0 0.5em;
+}
+
+.header {
+	background:$darkblue;
+	color:$secondary;
+	padding: 2em 0;
+}
+
+.note {
+	padding: 0 0 1em 0;
+}
+
+.alert {
+	width:50%;
+	text-align: center;
+	left:25%;
+	position:absolute;
+	z-index: 1;
+}
